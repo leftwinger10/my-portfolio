@@ -10,26 +10,25 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  title2: "chao hu",
+  logo_name: "Chao Hu",
+  nickname: "Chao Hu",
+  full_name: "Chao Hu",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
-  resumeLink:
-    "https://drive.google.com/file/d/1IQge4pNhyj-RD2OOnEMrRPMODDUWeVDy/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+  resumeLink: "chaohu-datascientist.pdf",
+  mail: "chaohu1005@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/leftwinger10",
+  linkedin: "",
+  gmail: "chaohu1005@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  twitter: "",
+  instagram: "",
 };
 
 const skills = {
@@ -320,31 +319,31 @@ const skills = {
 
 const degrees = {
   degrees: [
+    // {
+    //   title: "Dalhousie University",
+    //   subtitle: "Masters in Applied Computer Science",
+    //   logo_path: "dal.png",
+    //   alt_name: "DAL",
+    //   duration: "2022 - 2023",
+    //   descriptions: [
+    //     "⚡ Studied Advanced Software Development Concepts, Data Managmenet & Warehousing",
+    //     "⚡ Also studied Mobile Computing, Severless Data Processing and created projects on them",
+    //     "⚡ Upcoming courses: Advanced Topics in Web Development and Cloud Computing",
+    //   ],
+    //   website_link: "https://www.dal.ca/",
+    // },
     {
-      title: "Dalhousie University",
-      subtitle: "Masters in Applied Computer Science",
-      logo_path: "dal.png",
-      alt_name: "DAL",
-      duration: "2022 - 2023",
-      descriptions: [
-        "⚡ Studied Advanced Software Development Concepts, Data Managmenet & Warehousing",
-        "⚡ Also studied Mobile Computing, Severless Data Processing and created projects on them",
-        "⚡ Upcoming courses: Advanced Topics in Web Development and Cloud Computing",
-      ],
-      website_link: "https://www.dal.ca/",
-    },
-    {
-      title: "SAL Engineering and Technical Institute",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Singapore Management University",
+      subtitle: "B.School in Computer Science",
       logo_path: "sal.png",
       alt_name: "SETI",
-      duration: "2017 - 2021",
+      duration: "2010 - 2014",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "https://www.smu.edu.sg/",
     },
   ],
 };
@@ -478,13 +477,13 @@ const experience = {
       experiences: [
         {
           title: "Full Stack Developer",
-          company: "Quicko",
-          company_url: "https://quicko.com/",
+          company: "Kansai System House",
+          company_url: "https://www.kansai-system.co.jp/english/",
           logo_path: "quicko.jpg",
-          duration: "June 2021 - October 2021",
-          location: "Ahmedabad",
+          duration: "November 2021 - April 2023",
+          location: "Osaka, Japan",
           description:
-            "Quicko is an online tax planning, preparation & filing platform for individuals & businesses.",
+            "Kansai System House is an online tax planning, preparation & filing platform for individuals & businesses.",
           color: "#2962FF",
         },
       ],
@@ -647,7 +646,7 @@ const projects = {
     },
     {
       name: "opPortfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
+      url: "https://github.com/leftwinger10/my-portfolio",
       description: "(This) A clean and full customizable portfolio template.",
       languages: [
         {
