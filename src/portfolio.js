@@ -23,12 +23,7 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/leftwinger10",
-  linkedin: "",
   gmail: "chaohu1005@gmail.com",
-  gitlab: " ",
-  facebook: " ",
-  twitter: "",
-  instagram: "",
 };
 
 const skills = {
